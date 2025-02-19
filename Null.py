@@ -22,11 +22,11 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=f"https://t.me/TheSupportTalk"),
-        InlineKeyboardButton(text="𝗦𝗼𝘂𝗿𝗰𝗲", url=f"https://github.com/AMANTYA1"),
+        InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=f"https://t.me/X_NETWORK_BOTS_I"),
+        InlineKeyboardButton(text="𝗦𝗼𝘂𝗿𝗰𝗲", url=f"https://github.com/X-Network12/"),
     ],    
     [
-        InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url=f"https://t.me/NULLCROW"),
+        InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url=f"https://telegram.me/Shivang_mishra_op"),
     ],
     
 ]
